@@ -1,6 +1,6 @@
 # propanel
 
-A new Flutter application.
+This application is a project given to me during my internship. There will be a QRCode at the workplace entrance and will be redirect to app. It works for on your browser. The purpose of this application is to get customers information.
 
 ## Getting Started
 
